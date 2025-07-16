@@ -1,6 +1,5 @@
 # House-Price-Prediction-Model
 This project is a pure Data Scientiist project in which I predict the price of a house from a data
-#  Housing Price Prediction Project
 
 This repository presents a complete machine learning pipeline designed to predict California housing prices using a Random Forest model. The pipeline handles all stages of the ML workflow — from data loading and preprocessing to model training, evaluation, and making predictions on new data.
 
