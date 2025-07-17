@@ -27,6 +27,7 @@ The goal of this project is to:
 - Automate preprocessing of both numerical and categorical features.
 - Save trained models and reuse them without re-training.
 - Apply proper model evaluation and testing methods (Stratified Sampling).
+- Use joblib and inferences at last to secure all the data
 
 ---
 
