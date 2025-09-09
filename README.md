@@ -72,7 +72,7 @@ Prediction Output File: `output.csv`
 | Component         | Tools / Libraries         |
 |-------------------|---------------------------|
 | Programming       | Python                    |
-| Data Handling     | pandas, numpy             |
+| Data Handling     | pandas, numpy, Matplotlib |            |
 | Machine Learning  | scikit-learn              |
 | Serialization     | joblib                    |
 | Model Used        | RandomForestRegressor     |
